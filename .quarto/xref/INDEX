@@ -1,0 +1,38 @@
+{
+  "about.qmd": {
+    "about.html": "9645ce3b"
+  },
+  "calendar.qmd": {
+    "calendar.html": "744697b5"
+  },
+  "cheatsheets.qmd": {
+    "cheatsheets.html": "37bb7182"
+  },
+  "data.qmd": {
+    "data.html": "4caa7d18"
+  },
+  "ed-netiquette.qmd": {
+    "ed-netiquette.html": "297985bf"
+  },
+  "email.qmd": {
+    "email.html": "8935a9d2"
+  },
+  "faqs.qmd": {
+    "faqs.html": "b0de2973"
+  },
+  "five-things.qmd": {
+    "five-things.html": "f0ded4c0"
+  },
+  "index.qmd": {
+    "index.html": "3b80c66b"
+  },
+  "license.qmd": {
+    "license.html": "60d04901"
+  },
+  "staff.qmd": {
+    "staff.html": "3b0fb24a"
+  },
+  "syllabus.qmd": {
+    "syllabus.html": "3301d772"
+  }
+}
