@@ -1,0 +1,297 @@
+- week: 1
+  days:
+    - date: "Sep 13"
+      items:
+        - type: "Exercise"
+          name: "New Member Academy"
+          auxil:
+            id: "Slides"
+          auxil2: 
+            id: "Scenarios"
+
+- week: 2
+  days:
+    - date: "Sep 16"
+      items:
+        - type: "Lecture A"
+          name: "Cardiac Emergencies (Mon)"
+          auxil:
+            id: "Slides"
+          auxil2: 
+            id: "Scenarios"
+    - date: "Sep 17"
+      items:
+        - type: "Lecture B"
+          name: "Cardiac Emergencies (Tues)"
+          auxil:
+            id: "Slides"
+          auxil2: 
+            id: "Scenarios"
+    - date: "Sep 19"
+      items:
+        - type: "Reflection"
+          name: "Week 2 Reflection"
+        - type: "Quiz"
+          name: "Week 2 Quiz"
+- week: 3
+  days:
+    - date: "Sep 23"
+      items:
+        - type: "Lecture A"
+          name: "CPR and STB/FA Instructor Training (Mon)"
+          auxil:
+            id: "Slides"
+          auxil2:
+            id: "Scenarios"
+    - date: "Sep 24"
+      items:
+        - type: "Lecture B"
+          name: "CPR and STB/FA Instructor Training (Tues)"
+          auxil:
+            id: "Slides"
+          auxil2:
+            id: "Scenarios"
+    - date: "Sep 26"
+      items:
+        - type: "Reflection"
+          name: "Week 3 Reflection"
+        - type: "Quiz"
+          name: "Week 3 Quiz"
+
+- week: 4
+  days:
+    - date: "Sep 30"
+      items:
+        - type: "Lecture A"
+          name: "Respiratory Emergencies (Mon)"
+          auxil:
+            id: "Slides"
+          auxil2:
+            id: "Scenarios"
+    - date: "Oct 1"
+      items:
+        - type: "Lecture B"
+          name: "Respiratory Emergencies (Tues)"
+          auxil:
+            id: "Slides"
+          auxil2:
+            id: "Scenarios"
+    - date: "Oct 3"
+      items:
+        - type: "Reflection"
+          name: "Week 4 Reflection"
+        - type: "Quiz"
+          name: "Week 4 Quiz"
+
+- week: 5
+  days:
+    - date: "Oct 7"
+      items:
+        - type: "Lecture A"
+          name: "Trauma Care (Mon)"
+          auxil:
+            id: "Slides"
+          auxil2:
+            id: "Scenarios"
+    - date: "Oct 8"
+      items:
+        - type: "Lecture B"
+          name: "Trauma Care (Tues)"
+          auxil:
+            id: "Slides"
+          auxil2:
+            id: "Scenarios"
+    - date: "Oct 10"
+      items:
+        - type: "Reflection"
+          name: "Week 5 Reflection"
+        - type: "Quiz"
+          name: "Week 5 Quiz"
+
+- week: 6
+  days:
+    - date: "Oct 14"
+      items:
+        - type: "Lecture A"
+          name: "Special Training Event (Mon)"
+          auxil:
+            id: "Slides"
+          auxil2:
+            id: "Scenarios"
+    - date: "Oct 15"
+      items:
+        - type: "Lecture B"
+          name: "Special Training Event (Tues)"
+          auxil:
+            id: "Slides"
+          auxil2:
+            id: "Scenarios"
+    - date: "Oct 17"
+      items:
+        - type: "Reflection"
+          name: "Week 6 Reflection"
+        - type: "Quiz"
+          name: "Week 6 Quiz"
+
+- week: 7
+  days:
+    - date: "Oct 21"
+      items:
+        - type: "Lecture A"
+          name: "Environmental Emergencies (Mon)"
+          auxil:
+            id: "Slides"
+          auxil2:
+            id: "Scenarios"
+    - date: "Oct 22"
+      items:
+        - type: "Lecture B"
+          name: "Environmental Emergencies (Tues)"
+          auxil:
+            id: "Slides"
+          auxil2:
+            id: "Scenarios"
+    - date: "Oct 24"
+      items:
+        - type: "Reflection"
+          name: "Week 7 Reflection"
+        - type: "Quiz"
+          name: "Week 7 Quiz"
+
+- week: 8
+  days:
+    - date: "Oct 28"
+      items:
+        - type: "Lecture A"
+          name: "Guest Speakers (Mon)"
+          auxil:
+            id: "Slides"
+          auxil2:
+            id: "Scenarios"
+    - date: "Oct 29"
+      items:
+        - type: "Lecture B"
+          name: "Guest Speakers (Tues)"
+          auxil:
+            id: "Slides"
+          auxil2:
+            id: "Scenarios"
+    - date: "Oct 31"
+      items:
+        - type: "Reflection"
+          name: "Week 8 Reflection"
+        - type: "Quiz"
+          name: "Week 8 Quiz"
+        - type: "Assignment"
+          name: "Mid-Semester Feedback Form"
+
+- week: 9
+  days:
+    - date: "Nov 4"
+      items:
+        - type: "Lecture A"
+          name: "Psychological and Behavioral Emergencies (Mon)"
+          auxil:
+            id: "Slides"
+          auxil2:
+            id: "Scenarios"
+    - date: "Nov 5"
+      items:
+        - type: "Lecture B"
+          name: "Psychological and Behavioral Emergencies (Tues)"
+          auxil:
+            id: "Slides"
+          auxil2:
+            id: "Scenarios"
+    - date: "Nov 7"
+      items:
+        - type: "Reflection"
+          name: "Week 9 Reflection"
+        - type: "Quiz"
+          name: "Week 9 Quiz"
+
+- week: 10
+  days:
+    - date: "Nov 11"
+      items:
+        - type: "Lecture A"
+          name: "Toxicology – Poisoning, Overdose, Drugs (Mon)"
+          auxil:
+            id: "Slides"
+          auxil2:
+            id: "Scenarios"
+    - date: "Nov 12"
+      items:
+        - type: "Lecture B"
+          name: "Toxicology – Poisoning, Overdose, Drugs (Tues)"
+          auxil:
+            id: "Slides"
+          auxil2:
+            id: "Scenarios"
+    - date: "Nov 14"
+      items:
+        - type: "Reflection"
+          name: "Week 10 Reflection"
+        - type: "Quiz"
+          name: "Week 10 Quiz"
+
+- week: 11
+  days:
+    - date: "Nov 18"
+      items:
+        - type: "Lecture A"
+          name: "Pediatrics and Obstetrics (Mon)"
+          auxil:
+            id: "Slides"
+          auxil2:
+            id: "Scenarios"
+    - date: "Nov 19"
+      items:
+        - type: "Lecture B"
+          name: "Pediatrics and Obstetrics (Tues)"
+          auxil:
+            id: "Slides"
+          auxil2:
+            id: "Scenarios"
+    - date: "Nov 21"
+      items:
+        - type: "Reflection"
+          name: "Week 11 Reflection"
+        - type: "Quiz"
+          name: "Week 11 Quiz"
+
+- week: 12
+  days:
+    - date: "Dec 2"
+      items:
+        - type: "Lecture A"
+          name: "Disaster and MCI Preparedness (Mon)"
+          auxil:
+            id: "Slides"
+          auxil2:
+            id: "Scenarios"
+    - date: "Dec 3"
+      items:
+        - type: "Lecture B"
+          name: "Disaster and MCI Preparedness (Tues)"
+          auxil:
+            id: "Slides"
+          auxil2:
+            id: "Scenarios"
+    - date: "Dec 5"
+      items:
+        - type: "Reflection"
+          name: "Week 12 Reflection"
+        - type: "Quiz"
+          name: "Week 12 Quiz"
+
+- week: 13
+  days:
+    - date: "Dec 12"
+      items:
+        - type: "Assignment"
+          name: "Final Feedback Form"
+    - date: "TBD"
+      items: 
+      - type: "Exercise"
+        name: "Mass Casualty Incident Training"
