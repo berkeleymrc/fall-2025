@@ -3,7 +3,6 @@ project:
 
 website:
   favicon: assets/favicon.ico
-  google-analytics: G-CES9J82GLL
   page-footer: 
     center:
       - text: About
@@ -11,7 +10,7 @@ website:
       - text: License
         href: license.qmd
       - text: GitHub
-        href: "https://berkeleymrc.github.io"
+        href: "https://github.com/berkeleymrc/fall-2025"
     background: "dark"
   sidebar:
     style: "docked"
