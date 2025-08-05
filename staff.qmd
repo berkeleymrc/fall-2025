@@ -24,7 +24,6 @@ Office hours are available at request.
 
 :::
 
------
 
 ## Board
 
@@ -37,7 +36,7 @@ Office hours are available at request.
 
 ::: {.g-col-6}
 **Directors of Medical Operations:** <a href='' target='_blank'>Charisse Chih</a> & <a href='' target='_blank'>Priyanka Kalidindi</a><br>
-`medicalops@berkeleymrc.org`<br>
+`medicaloperations@berkeleymrc.org`<br>
 :::
 
 ::: {.g-col-6}
@@ -47,12 +46,12 @@ Office hours are available at request.
 
 ::: {.g-col-6}
 **Directors of Disaster Preparedness:** <a href='' target='_blank'>Rebecca Wei</a> & <a href='' target='_blank'>Kevin Rao</a><br>
-`disasterprep@berkeleymrc.org`<br>
+`disasterpreparedness@berkeleymrc.org`<br>
 :::
 
 ::: {.g-col-6}
 **Director of Administration:** <a href='' target='_blank'>Sophia Levin</a><br>
-`admin@berkeleymrc.org`<br>
+`administration@berkeleymrc.org`<br>
 :::
 
 ::: {.g-col-6}

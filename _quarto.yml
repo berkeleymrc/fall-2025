@@ -5,8 +5,6 @@ website:
   favicon: assets/favicon.ico
   page-footer: 
     center:
-      - text: About
-        href: about.qmd
       - text: License
         href: license.qmd
       - text: GitHub
@@ -19,18 +17,30 @@ website:
     logo-alt: "BMRC logo"
     tools:
       - icon: github
-        href: https://berkeleymrc.github.io/fall-2025/
+        href: https://github.com/berkeleymrc/fall-2025
     contents:
       - href: index.qmd
         text: Home / Schedule
       - href: syllabus.qmd
         text: Syllabus
+      - section: "Medical Operations"
+        contents:
+          - href: medopsevents.qmd
+            text: Event Signup
+          - href: pcrs.qmd
+            text: Patient Care Reports
+      - section: "Public Health"
+        contents:
+          - href: publichealthevents.qmd
+            text: Event Signup
       - href: staff.qmd
         text: Staff
       - section: "Other"
         contents:
           - href: faqs.qmd
             text: FAQs
+          - href: rockmed.qmd
+            text: Rock Medicine
           - href: license.qmd
             text: License
 
@@ -40,7 +50,6 @@ format:
     fontsize: 1em
     css: assets/styles.css
     toc: true
-    include-in-header:
-      file: siteimprove.html
+    include-after-body: _includes/google-analytics.html
 
 
