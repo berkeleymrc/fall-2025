@@ -39,6 +39,8 @@ website:
         contents:
           - href: faqs.qmd
             text: FAQs
+          - href: work.qmd
+            text: Work Opportunities
           - href: rockmed.qmd
             text: Rock Medicine
           - href: license.qmd

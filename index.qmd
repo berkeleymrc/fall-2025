@@ -16,7 +16,8 @@ listing:
 
 
 ::: {.callout-note title="Announcements"}
-First training on September 16/17 (1800-2000)
+- New member testing on September 8/9 (1900-2100)
+- First training on September 16/17 (1800-2000)
 :::
 
 
