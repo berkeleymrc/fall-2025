@@ -113,7 +113,7 @@
     - date: "Oct 14"
       items:
         - type: "Lecture A"
-          name: "Special Training Event (Mon)"
+          name: "EKG Basics (Mon)"
           auxil:
             id: "Slides"
           auxil2:
@@ -121,7 +121,7 @@
     - date: "Oct 15"
       items:
         - type: "Lecture B"
-          name: "Special Training Event (Tues)"
+          name: "EKG Basics (Tues)"
           auxil:
             id: "Slides"
           auxil2:

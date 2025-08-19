@@ -14,7 +14,7 @@ Simple First Aid or comfort items requested by patients (i.e. band-aids, ice pac
 
 - Demographics information is required for every patient. Try your best to acquire it.  
   _Pro Tip: Ask for their ID!_
-- Chief complaint should be in quotes (e.g., “I drank too much,” not _EtOH_). If unresponsive or incomprehensible, document as:  
+- Chief complaint should be in quotes (e.g., “I drank too much,” not EtOH). If unresponsive or incomprehensible, document as:  
   > “None (Unresponsive/Incomprehensible)”
 - If A+O status is less than 4, document exactly what the patient could not report or what led you to conclude the patient was altered.  
   _E.g.: “Unaware of current location/city”_
