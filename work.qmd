@@ -54,7 +54,7 @@ Wente is a Scouting America summer camp in Willits, CA that hires 2–3 EMTs eac
 - **Dates:** June–August
 - **Schedule:** 6 consecutive 24-hour shifts per week; 1 day off
 - **Compensation:** Modest stipend, room and board are fully provided
-- **Call Types:** Everything from scrapes, heat illness, fractures, psych allergic reactions
+- **Role:** Manage both acute (scrapes, heat illness, fractures, psych, allergic reactions) and chronic (routine medication administration, chronic pain) medical conditions 
 - **Patient Population:** Campers, staff, parents aged 11+ years old
 - **Environment:** Remote/rural, high call volume, limited transport access
 

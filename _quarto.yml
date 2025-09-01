@@ -31,8 +31,8 @@ website:
             text: Patient Care Reports
       - section: "Public Health"
         contents:
-          - href: publichealthevents.qmd
-            text: Event Signup
+          - href: publichealthinfo.qmd
+            text: Information
       - href: staff.qmd
         text: Staff
       - section: "Other"

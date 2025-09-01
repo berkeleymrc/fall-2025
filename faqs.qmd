@@ -3,7 +3,7 @@ title: "Frequently Asked Questions"
 ---
 
 __I am not currently an EMT. Can I still enroll in the course or join BMRC?__ <br>
-No. *Emergency Medicine in Practice* is open only to BMRC members, who must be Nationally Registered Emergency Medical Technicians with California State licensure (grey card).
+Yes, however the course is mandatory for all new BMRC members to take, and we have limited space. This means that first priority for enrollment codes goes to new members, then general members, then other students at UC Berkeley. It is uncommon for spots to remain after codes are released to BMRC members. To become a BMRC member, you must be Nationally Registered Emergency Medical Technicians with California State licensure (grey card).
 
 That said, non-EMTs are welcome and encouraged to attend our public presentations from 7–8 PM on Mondays and Tuesdays. These are a great way to learn more about what it’s like to be an EMT and a BMRC member. For details, visit our Instagram: [@mrcberkeley](https://www.instagram.com/mrcberkeley/).
 
@@ -21,7 +21,7 @@ No. If you will consistently miss a portion of training (e.g., due to another cl
 
 <br>
 __What is the uniform policy for trainings?__ <br>
-All members are expected to attend training in half uniform—BMRC T-shirt or quarter-zip, EMT pants, and boots.
+All members are expected to attend training in half uniform (BMRC T-shirt or quarter-zip, EMT pants, and boots).
 
 <br>
 __How do I sign up for MedOps events?__ <br>
@@ -41,7 +41,7 @@ Example PCRs are located at the bottom of the [PCRs page](pcrs.html).
 
 <br>
 __How do I sign up for Public Health events?__ <br>
-Public Health events are reserved for trained instructors—members who have completed the semester’s PH training. Sign-up sheets are posted in Slack whenever an event is announced. Be sure to check Slack regularly and follow the sign-up instructions at the top of the sheet.
+Public Health events are reserved for members who have completed a semester’s PH training. Sign-up sheets are posted in Slack whenever an event is announced. Be sure to check Slack regularly and follow the sign-up instructions at the top of the sheet.
 
 <br>
 __How do I become a PHO (Public Health Officer)?__ <br>

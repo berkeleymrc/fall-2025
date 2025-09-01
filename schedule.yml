@@ -27,12 +27,17 @@
             id: "Slides"
           auxil2: 
             id: "Scenarios"
-    - date: "Sep 19"
+    - date: "Sept 19"
       items:
-        - type: "Reflection"
-          name: "Week 2 Reflection"
         - type: "Quiz"
           name: "Week 2 Quiz"
+          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/quizzes/2512085"
+    - date: "Sept 19"
+      items:
+        - type: "Quiz"
+          name: "BMRC Protocol Quiz"
+          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/quizzes/2512080"
+
 - week: 3
   days:
     - date: "Sep 23"
@@ -51,12 +56,10 @@
             id: "Slides"
           auxil2:
             id: "Scenarios"
-    - date: "Sep 26"
+    - date: "Sep 27"
       items:
         - type: "Reflection"
-          name: "Week 3 Reflection"
-        - type: "Quiz"
-          name: "Week 3 Quiz"
+          name: "Week 12 Reflection"
 
 - week: 4
   days:
@@ -82,6 +85,7 @@
           name: "Week 4 Reflection"
         - type: "Quiz"
           name: "Week 4 Quiz"
+          canvas_quiz_url: "" # https://bcourses.berkeley.edu/courses/1547313/quizzes/2512083"
 
 - week: 5
   days:
@@ -107,6 +111,7 @@
           name: "Week 5 Reflection"
         - type: "Quiz"
           name: "Week 5 Quiz"
+          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/quizzes/2512081" 
 
 - week: 6
   days:
@@ -157,6 +162,7 @@
           name: "Week 7 Reflection"
         - type: "Quiz"
           name: "Week 7 Quiz"
+          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/quizzes/2512082"
 
 - week: 8
   days:
@@ -209,6 +215,7 @@
           name: "Week 9 Reflection"
         - type: "Quiz"
           name: "Week 9 Quiz"
+          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/quizzes/2512084"          
 
 - week: 10
   days:
@@ -234,6 +241,7 @@
           name: "Week 10 Reflection"
         - type: "Quiz"
           name: "Week 10 Quiz"
+          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/quizzes/2512079"          
 
 - week: 11
   days:
@@ -259,6 +267,7 @@
           name: "Week 11 Reflection"
         - type: "Quiz"
           name: "Week 11 Quiz"
+          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/quizzes/2512086"          
 
 - week: 12
   days:
