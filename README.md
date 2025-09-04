@@ -1,12 +1,12 @@
-# BMRC EMT Course Website — Fall 2025
+# Emergency Medicine in Practice Course Website — Fall 2025
 
-This repository contains the source files for the **UC Berkeley Medical Reserve Corps (BMRC) EMT Course** website for **Fall 2025**.  
+This repository contains the source files for the Emergency Medicine in Practice course website for **Fall 2025**.  
 The site is built with [Quarto](https://quarto.org/) and hosted on GitHub Pages at:  
 [https://berkeleymrc.github.io/fall-2025/](https://berkeleymrc.github.io/fall-2025/)
 
 ## About the Site
 
-The BMRC EMT Course website acts as a central hub for students, staff, and alumni. It includes:
+The site acts as a central hub for students and BMRC alumni. It includes:
 
 - The course schedule with weekly sessions and events
 - Lecture slides and associated EMT training scenarios
@@ -17,9 +17,9 @@ The BMRC EMT Course website acts as a central hub for students, staff, and alumn
 
 ## Audience
 
-- **Current students**: access course content, schedules, and event sign-ups  
-- **BMRC EMT members**: view opportunities for fieldwork and volunteering  
-- **Future cohorts**: reference prior materials and training resources  
+- Current students: Access course content, schedules, and event sign-ups  
+- BMRC EMT members: View opportunities for fieldwork and volunteering  
+- Future cohorts: Reference prior materials and training resources  
 
 ## Repository Purpose
 
