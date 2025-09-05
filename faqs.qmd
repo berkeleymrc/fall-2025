@@ -25,7 +25,7 @@ All members are expected to attend training in half uniform (BMRC T-shirt or qua
 
 <br>
 __How do I sign up for MedOps events?__ <br>
-Sign up by commenting your name in the appropriate cell on the [event sign-up Google Sheet](). You can also view the calendar of posted events and openings on the [MedOps Events page](medopsevents.html).
+Sign up by commenting your name in the appropriate cell on the [event sign-up Google Sheet](https://docs.google.com/spreadsheets/u/5/d/12O9aSQ8l65SdB1fVUv1Ors-MUf5wUNarZhkPG3UpIE8/edit?gid=1100467556#gid=1100467556). You can also view the calendar of posted events and openings on the [MedOps Events page](medopsevents.html).
 
 <br>
 __How do I become an FTO?__ <br>
@@ -53,7 +53,7 @@ Board applications open toward the end of every fall semester and include role d
 
 <br>
 __Who do I contact about reimbursements?__ <br>
-Please fill out the reimbursement form here: [https://forms.gle/zLo5rPtPqHJy61DV7](https://forms.gle/zLo5rPtPqHJy61DV7)
+Please fill out the [reimbursement form](https://forms.gle/zLo5rPtPqHJy61DV7)
 
 <br>
 __What is Rock Med?__ <br>
