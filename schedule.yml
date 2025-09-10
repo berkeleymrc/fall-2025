@@ -6,8 +6,8 @@
           name: "New Member Academy"
           auxil:
             id: "Slides"
-          auxil2: 
-            id: "Scenarios"
+          # auxil2: 
+          #   id: "Scenarios"
 
 - week: 2
   days:
@@ -59,7 +59,7 @@
     - date: "Sep 26"
       items:
         - type: "Reflection"
-          name: "Week 12 Reflection"
+          name: "Week 3 Reflection"
 
 - week: 4
   days:
