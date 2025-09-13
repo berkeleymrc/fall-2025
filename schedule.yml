@@ -6,6 +6,7 @@
           name: "New Member Academy"
           auxil:
             id: "Slides"
+            href: "files/fa25-nma-slides.pdf"
           # auxil2: 
           #   id: "Scenarios"
 
