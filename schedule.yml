@@ -48,24 +48,9 @@
     - date: "Sep 22"
       items:
         - type: "Lecture A"
-          name: "CPR and STB/FA Instructor Training (Mon)"
+          name: "CPR and STB/FA Instructor Training"
           auxil:
             id: "Slides"
-            href: "https://docs.google.com/presentation/d/1qF1w8AGeHIcA-XXYYHURiX5co3xr-_CIJbFIWTL6dnA/edit?usp=sharing"
-          auxil2:
-            id: "Scenarios"
-    - date: "Sep 23"
-      items:
-        - type: "Lecture B"
-          name: "CPR and STB/FA Instructor Training (Tues)"
-          auxil:
-            id: "Slides"
-          auxil2:
-            id: "Scenarios"
-    - date: "Sep 26"
-      items:
-        - type: "Reflection"
-          name: "Week 3 Reflection"
 
 - week: 4
   days:

@@ -16,7 +16,8 @@ listing:
 
 
 ::: {.callout-note title="Announcements"}
-- First training on September 15 (SOCS 60), September 16 (HQ) 1800-2000
+- Public Health Training Monday 9/22 1800-2000 @ SOCS 60
+- **No Tuesday training next week**
 :::
 
 
