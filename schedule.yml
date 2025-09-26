@@ -49,8 +49,6 @@
       items:
         - type: "Lecture A"
           name: "CPR and STB/FA Instructor Training"
-          auxil:
-            id: "Slides"
 
 - week: 4
   days:
@@ -74,7 +72,7 @@
       items:
         - type: "Reflection"
           name: "Week 4 Reflection"
-          vancas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945843"
+          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945843"
         - type: "Quiz"
           name: "Week 4 Quiz"
           canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/quizzes/2512083"
@@ -101,9 +99,10 @@
       items:
         - type: "Reflection"
           name: "Week 5 Reflection"
+          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945845"
         - type: "Quiz"
           name: "Week 5 Quiz"
-          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/quizzes/2512081" 
+          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/quizzes/2512081" 
 
 - week: 6
   days:
@@ -113,16 +112,12 @@
           name: "EKG Basics (Mon)"
           auxil:
             id: "Slides"
-          auxil2:
-            id: "Scenarios"
     - date: "Oct 14"
       items:
         - type: "Lecture B"
           name: "EKG Basics (Tues)"
           auxil:
             id: "Slides"
-          auxil2:
-            id: "Scenarios"
     - date: "Oct 17"
       items:
         - type: "Reflection"
@@ -152,6 +147,7 @@
       items:
         - type: "Reflection"
           name: "Week 7 Reflection"
+          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945847"
         - type: "Quiz"
           name: "Week 7 Quiz"
           # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/quizzes/2512082"
@@ -162,26 +158,18 @@
       items:
         - type: "Lecture A"
           name: "Guest Speakers (Mon)"
-          auxil:
-            id: "Slides"
-          auxil2:
-            id: "Scenarios"
     - date: "Oct 28"
       items:
         - type: "Lecture B"
           name: "Guest Speakers (Tues)"
-          auxil:
-            id: "Slides"
-          auxil2:
-            id: "Scenarios"
     - date: "Oct 31"
       items:
         - type: "Reflection"
           name: "Week 8 Reflection"
-        - type: "Quiz"
-          name: "Week 8 Quiz"
+          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945849"
         - type: "Assignment"
           name: "Mid-Semester Feedback Form"
+          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945832"
 
 - week: 9
   days:
@@ -205,6 +193,7 @@
       items:
         - type: "Reflection"
           name: "Week 9 Reflection"
+          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945850"
         - type: "Quiz"
           name: "Week 9 Quiz"
           # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/quizzes/2512084"          
@@ -231,6 +220,7 @@
       items:
         - type: "Reflection"
           name: "Week 10 Reflection"
+          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945836"
         - type: "Quiz"
           name: "Week 10 Quiz"
           # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/quizzes/2512079"          
@@ -257,6 +247,7 @@
       items:
         - type: "Reflection"
           name: "Week 11 Reflection"
+          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945838"
         - type: "Quiz"
           name: "Week 11 Quiz"
           # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/quizzes/2512086"          
@@ -269,22 +260,17 @@
           name: "Disaster and MCI Preparedness (Mon)"
           auxil:
             id: "Slides"
-          auxil2:
-            id: "Scenarios"
     - date: "Dec 2"
       items:
         - type: "Lecture B"
           name: "Disaster and MCI Preparedness (Tues)"
           auxil:
             id: "Slides"
-          auxil2:
-            id: "Scenarios"
     - date: "Dec 5"
       items:
         - type: "Reflection"
           name: "Week 12 Reflection"
-        - type: "Quiz"
-          name: "Week 12 Quiz"
+          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945840"
 
 - week: 13
   days:
@@ -292,6 +278,7 @@
       items:
         - type: "Assignment"
           name: "Final Feedback Form"
+          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945829"
     - date: "TBD"
       items: 
       - type: "Exercise"
