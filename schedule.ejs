@@ -10,9 +10,13 @@
              const it = day.items[i];
              const labelClass = 'label-' + String(it.type || '').replace(/\s+/g, '-');
              // Name cell link priority: canvas_quiz_url (for Quiz) -> href -> plain text
-             const nameHref = (it.type && String(it.type).toLowerCase() === 'quiz' && it.canvas_quiz_url)
-                              ? it.canvas_quiz_url
-                              : (it.href ? it.href : null);
+             const nameHref = (
+               it.canvas_quiz_url && 
+               ['quiz', 'reflection'].includes(String(it.type || '').toLowerCase())
+             ) 
+               ? it.canvas_quiz_url
+               : (it.href ? it.href : null);
+
         %>
           <tr>
             <% if (i === 0) { %>

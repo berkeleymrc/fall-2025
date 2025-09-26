@@ -39,6 +39,11 @@
           canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/quizzes/2512085"
     - date: "Sep 19"
       items:
+        - type: "Reflection"
+          name: "Week 2 Reflection"
+          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945841"
+    - date: "Sep 19"
+      items:
         - type: "Quiz"
           name: "BMRC Protocol Quiz"
           canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/quizzes/2512080"
@@ -99,10 +104,10 @@
       items:
         - type: "Reflection"
           name: "Week 5 Reflection"
-          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945845"
+          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945845"
         - type: "Quiz"
           name: "Week 5 Quiz"
-          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/quizzes/2512081" 
+          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/quizzes/2512081" 
 
 - week: 6
   days:
