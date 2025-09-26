@@ -32,12 +32,12 @@
           auxil2: 
             id: "Scenarios"
             href: "files/cardiac_tues_scenario.pdf"
-    - date: "Sept 19"
+    - date: "Sep 19"
       items:
         - type: "Quiz"
           name: "Week 2 Quiz"
           canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/quizzes/2512085"
-    - date: "Sept 19"
+    - date: "Sep 19"
       items:
         - type: "Quiz"
           name: "BMRC Protocol Quiz"
@@ -62,7 +62,7 @@
             id: "Slides"
           auxil2:
             id: "Scenarios"
-    - date: "Oct 30"
+    - date: "Oct 1"
       items:
         - type: "Lecture B"
           name: "Respiratory Emergencies (Tues)"
@@ -74,9 +74,10 @@
       items:
         - type: "Reflection"
           name: "Week 4 Reflection"
+          vancas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945843"
         - type: "Quiz"
           name: "Week 4 Quiz"
-          canvas_quiz_url: "" # https://bcourses.berkeley.edu/courses/1547313/quizzes/2512083"
+          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/quizzes/2512083"
 
 - week: 5
   days:
