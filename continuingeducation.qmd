@@ -19,27 +19,31 @@ Don’t forget that standard certifications like BLS CPR renewal can also count 
 
 ## Free CE Courses
 
-| Provider | Summary | Verified |
+| <span style="display: inline-block; width:500px">text</span> | description                           |
+| --------------------------------------- | ------------------------------------- |
+| "border-bottom-right-radius"            | Defines the shape of the bottom-right |
+
+| <span style="display: inline-block; width:200px">Provider</span> | <span style="display: inline-block; width:350px">Summary</span> | Verified |
 |----------|---------|----------|
 | [FEMA IS-100: Introduction to ICS](https://www.firstrespondertraining.gov/frts/npccatalog?id=2304) | 2 CEs (Operations) | Mar 2025 |
 | [FEMA IS-200: ICS for Single Resources](https://www.firstrespondertraining.gov/frts/npccatalog?id=2322) | 4 CEs (Operations) | Mar 2025 |
 | [FEMA IS-700: National Incident Management System](https://www.firstrespondertraining.gov/frts/npccatalog?id=2404) | 4 CEs (Operations) | Mar 2025 |
-| [FEMA IS-800: National Response Framework](https://www.firstrespondertraining.gov/frts/npccatalog?id=2413) | 3 CEs (Operations). Reports of outages April 2025 | |
-| [NorCal EMS](https://norcalems.learnworlds.com/) | A few free CE courses | Sep 2025 |
+| [FEMA IS-800: National Response Framework](https://www.firstrespondertraining.gov/frts/npccatalog?id=2413) | 3 CEs (Operations) | Apr 2025 |
+| [NorCal EMS](https://norcalems.learnworlds.com/) | A few free courses | Sep 2025 |
 | [FOAMfrat](https://www.foamfrat.com/paramedic-refresher-course) | Requires a free account; several free modules | Sep 2025 |
-| [Rock Medicine](https://sites.google.com/view/rock-medicine-new/education?authuser=0&pli=1) | A series of free EMTs for Rock Med Volunteers | Sep 2025 |
-| [Guardian](https://guardian-you.com/) | Large library, podcast-style lectures with quizzes. Most-recommended for new EMTs | Mar 2025 |
-| [EMS1 Academy (Lexipol) > Zoll](https://zoll.ems1academy.com/) | 4.5 hours (Ops). Pushes directly to NREMT | Mar 2025 |
+| [Rock Medicine](https://sites.google.com/view/rock-medicine-new/education?authuser=0&pli=1) | Series of free CEs for Rock Med Volunteers | Sep 2025 |
+| [Guardian](https://guardian-you.com/) | Large library, podcast-style lectures with quizzes | Mar 2025 |
+| [EMS1 Academy (Lexipol) > Zoll](https://zoll.ems1academy.com/) | 4.5 hours (Operations) | Mar 2025 |
 | [EMS1 Academy (Lexipol) > OLT](https://olt.ems1academy.com/) | Large list of free courses | Mar 2025 |
-| [EMS1 Academy (Lexipol) > BoundTree University](https://btu.ems1academy.com/) | Large list, migrating platforms. Pushes to NREMT | Mar 2025 |
-| [BoundTree University (FOAMfrat)](https://www.boundtree.com/education) | 5 free high-quality courses. Paid subscription available | Mar 2025 |
-| [Prodigy EMS](https://www.prodigyems.com/) | Mix of free and paid. Usually reports to NREMT within a week | Mar 2025 |
+| [EMS1 Academy (Lexipol) > BoundTree University](https://btu.ems1academy.com/) | Large list of free courses | Mar 2025 |
+| [BoundTree University (FOAMfrat)](https://www.boundtree.com/education) | 5 free courses. Paid subscription available | Mar 2025 |
+| [Prodigy EMS](https://www.prodigyems.com/) | Mix of free and paid | Mar 2025 |
 
 
 ## Paid CE Options
 
-| Provider | Summary | Verified |
-|----------|------------|----------|
+| <span style="display: inline-block; width:200px">Provider</span> | <span style="display: inline-block; width:350px">Summary</span> | Verified |
+|----------|---------|----------|
 | [American CME](https://americancme.org/capce-courses/) | $5/course or $96–106 bundles. Free courses not CAPCE-eligible in most states. | Mar 2025 |
 | [MedicEd](https://mediced.com/index.asp) | $72/year | Mar 2025 |
 | [EMT-CE](https://emt-ce.com/) | $199 for 20 hours live + unlimited self-paced; $69 for online only | Mar 2025 |
