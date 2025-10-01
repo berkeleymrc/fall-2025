@@ -41,6 +41,8 @@ website:
             text: FAQs
           - href: work.qmd
             text: Work Opportunities
+          - href: continuingeducation.qmd
+            text: Continuing Education
           - href: rockmed.qmd
             text: Rock Medicine
           - href: license.qmd
