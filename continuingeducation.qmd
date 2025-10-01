@@ -19,10 +19,6 @@ Don’t forget that standard certifications like BLS CPR renewal can also count 
 
 ## Free CE Courses
 
-| <span style="display: inline-block; width:500px">text</span> | description                           |
-| --------------------------------------- | ------------------------------------- |
-| "border-bottom-right-radius"            | Defines the shape of the bottom-right |
-
 | <span style="display: inline-block; width:200px">Provider</span> | <span style="display: inline-block; width:350px">Summary</span> | Verified |
 |----------|---------|----------|
 | [FEMA IS-100: Introduction to ICS](https://www.firstrespondertraining.gov/frts/npccatalog?id=2304) | 2 CEs (Operations) | Mar 2025 |
