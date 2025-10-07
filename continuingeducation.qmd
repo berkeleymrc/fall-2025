@@ -4,16 +4,20 @@ title: "Continuing Education Courses"
 
 ## EMT Recertification in California
 
-In California, EMTs must renew their certification every 2 years. Renewal requires 36 hours of Continuing Education (CE) or the successful completion of a 24-hour EMT refresher course.  
+In California, EMTs must renew their certification every 2 years with at least 24 hours of continuing education, 50% of which must count as instructor-based.
 
+- Total hour requirements in California
+  - Valid and current certification license, or one lapsed less than 6 months: 24 course hours
+  - Lapsed 6 months to 1 year: 36 course hours
+  - Lapsed over 1 year: 48 course hours
 - CAPCE Approval
-  Most CE courses must be accredited by the Commission on Accreditation for Prehospital Continuing Education (CAPCE) in order to count for NREMT and California renewal.  
+  - Most CE courses must be accredited by the Commission on Accreditation for Prehospital Continuing Education (CAPCE) in order to count for NREMT and California renewal.  
 - Types of CE
-  CE may be instructor-led (live, synchronous) or distributive/online (asynchronous). California allows EMTs to complete all required CE hours via distributive education, though some agencies or employers may encourage a mix of both.  
+  - CE may be instructor-led (live, synchronous) or distributive/online (asynchronous). 
 - NREMT Requirements 
-  If you are nationally registered, you must also submit your CE hours through NREMT’s platform. Many providers automatically report CE to NREMT, while others may require you to upload completion certificates manually.  
+  - If you want to continue to be nationally registered, you must also submit your CE hours through NREMT’s platform. Many providers automatically report CE to NREMT, while others may require you to upload completion certificates manually.  
 
-Don’t forget that standard certifications like BLS CPR renewal can also count toward CE hours.
+Don’t forget that standard certifications like BLS CPR renewal or courses like Bio 1A can also count toward CE hours.
 
 
 
@@ -52,3 +56,5 @@ Don’t forget that standard certifications like BLS CPR renewal can also count 
 - Verify whether courses are CAPCE-accredited before relying on them for California renewal.  
 - Many providers automatically submit CE hours to NREMT, but California recertification may still require uploading certificates to your local EMS agency.  
 - Keep track of your hours with a personal log to avoid surprises at renewal time.  
+- The window to submit your reapplication opens 6 months before your license expires.
+- Try to submit your reapplication within 60 days of expiration to ensure that you maintain your license continuously.
