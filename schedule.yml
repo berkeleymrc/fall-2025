@@ -119,20 +119,10 @@
       items:
         - type: "Lecture A"
           name: "EKG Basics (Mon)"
-          auxil:
-            id: "Slides"
     - date: "Oct 14"
       items:
         - type: "Lecture B"
           name: "EKG Basics (Tues)"
-          auxil:
-            id: "Slides"
-    - date: "Oct 17"
-      items:
-        - type: "Reflection"
-          name: "Week 6 Reflection"
-        - type: "Quiz"
-          name: "Week 6 Quiz"
 
 - week: 7
   days:
@@ -142,24 +132,28 @@
           name: "Environmental Emergencies (Mon)"
           auxil:
             id: "Slides"
+            href: "files/environmental_mon_slides.pdf"
           auxil2:
             id: "Scenarios"
+            href: "files/environmental_mon_scenario.pdf"
     - date: "Oct 21"
       items:
         - type: "Lecture B"
           name: "Environmental Emergencies (Tues)"
           auxil:
             id: "Slides"
+            href: "files/environmental_tues_slides.pdf"
           auxil2:
             id: "Scenarios"
+            href: "files/environmental_tues_scenario.pdf"
     - date: "Oct 24"
       items:
         - type: "Reflection"
           name: "Week 7 Reflection"
-          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945847"
+          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945847"
         - type: "Quiz"
           name: "Week 7 Quiz"
-          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/quizzes/2512082"
+          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/quizzes/2512082"
 
 - week: 8
   days:
@@ -175,10 +169,10 @@
       items:
         - type: "Reflection"
           name: "Week 8 Reflection"
-          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945849"
+          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945849"
         - type: "Assignment"
           name: "Mid-Semester Feedback Form"
-          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945832"
+          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945832"
 
 - week: 9
   days:
