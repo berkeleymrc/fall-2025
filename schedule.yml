@@ -94,16 +94,20 @@
           name: "Trauma Care (Mon)"
           auxil:
             id: "Slides"
+            href: "files/trauma_mon.pdf"
           auxil2:
             id: "Scenarios"
+            href: "files/trauma_mon_scenario.pdf"
     - date: "Oct 7"
       items:
         - type: "Lecture B"
           name: "Trauma Care (Tues)"
           auxil:
             id: "Slides"
+            href: "files/trauma_tues.pdf"
           auxil2:
             id: "Scenarios"
+            href: "files/trauma_tues_scenario.pdf"
     - date: "Oct 10"
       items:
         - type: "Reflection"
@@ -182,24 +186,28 @@
           name: "Psychological and Behavioral Emergencies (Mon)"
           auxil:
             id: "Slides"
+            href: "files/psych_mon.pdf"
           auxil2:
             id: "Scenarios"
+            href: "files/psych_mon_scenario.pdf"
     - date: "Nov 4"
       items:
         - type: "Lecture B"
           name: "Psychological and Behavioral Emergencies (Tues)"
           auxil:
             id: "Slides"
+            href: "files/psych_tues.pdf"
           auxil2:
             id: "Scenarios"
+            href: "files/psych_tues_scenario.pdf"
     - date: "Nov 7"
       items:
         - type: "Reflection"
           name: "Week 9 Reflection"
-          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945850"
+          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945850"
         - type: "Quiz"
           name: "Week 9 Quiz"
-          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/quizzes/2512084"          
+          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/quizzes/2512084"          
 
 - week: 10
   days:
@@ -223,10 +231,10 @@
       items:
         - type: "Reflection"
           name: "Week 10 Reflection"
-          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945836"
+          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945836"
         - type: "Quiz"
           name: "Week 10 Quiz"
-          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/quizzes/2512079"          
+          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/quizzes/2512079"          
 
 - week: 11
   days:
@@ -250,10 +258,10 @@
       items:
         - type: "Reflection"
           name: "Week 11 Reflection"
-          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945838"
+          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945838"
         - type: "Quiz"
           name: "Week 11 Quiz"
-          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/quizzes/2512086"          
+          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/quizzes/2512086"          
 
 - week: 12
   days:
