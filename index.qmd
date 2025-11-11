@@ -16,7 +16,7 @@ listing:
 
 
 ::: {.callout-note title="Announcements"}
-- Make sure to submit feedback on the DeCal!
+- Make sure to submit feedback on the DeCal (https://forms.gle/PuYcqj6YGVapX3d26)!
 :::
 
 
